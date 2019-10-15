@@ -4,32 +4,16 @@
     padding: auto;
 }
 
-html {
-    color: #343A3F;
-}
-
-body {
-    color: #343A3F;
+img {
+    display: block;
+    margin: auto;
+    padding: auto;
 }
 
 footer {
     background-color: #343A3F;
     color: #fff;
     text-align: center;
-}
-
-#id {
-    background-color: #343A3F;
-}
-
-.news-container {
-    background-color: #343A3F;
-    height: 100%;
-}
-
-.more-container {
-    background-color: #343A3F;
-    height: 100%;
 }
 
 /* Add a black background color to the top navigation */
